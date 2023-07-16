@@ -1,5 +1,3 @@
-Certainly! Here's an extended version of the README for Cybgiz:
-
 ## Deployment Options
 
 Cybgiz provides flexibility in terms of deployment options. You can choose the deployment method that best suits your organization's infrastructure and requirements:
