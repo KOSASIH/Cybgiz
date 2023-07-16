@@ -65,7 +65,7 @@ We welcome contributions from the cybersecurity community to help enhance and im
 
 ## License
 
-Cybgiz is licensed under the [MIT License](https://github.com/cybgiz/cybgiz/blob/main/LICENSE). See the LICENSE file for more details.
+Cybgiz is licensed under the [MIT License](https://github.com/KOSASIH/cybgiz/blob/main/LICENSE). See the LICENSE file for more details.
 
 ## Deployment Options
 
